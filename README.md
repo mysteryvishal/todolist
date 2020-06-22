@@ -1,5 +1,8 @@
 # todoapp
 
+## Video by Traversy Media
+Video link is [here](https://www.youtube.com/watch?v=Wy9q22isx3U)
+
 ## Project setup
 ```
 npm install
